@@ -28,9 +28,7 @@ This is called "eternalized configuration" in Spring Boot, basically
 add an ```application.properties``` file, set environment variables,
 or use a combination of both.
 
-### To change port number, add a file
-
-```src/main/resources/application.properties``` and put ```server.port=8090``` in it for example.
+To change port number, add a file ```src/main/resources/application.properties``` and put ```server.port=8090``` in it for example.
 
 
 ### For full documentation see
