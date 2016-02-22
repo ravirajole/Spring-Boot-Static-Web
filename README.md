@@ -3,6 +3,10 @@ This is is a bare-bones scaffold with the single purpose of serving
 static content using a Spring Boot application, running an embedded
 Tomcat.
 
+It produces a single fat executable jar, with all dependencies and the content in it.
+
+Just drop your site content in the webroot, build the jar and then run it!
+
 ## How to build and run
 ```$ ./buildAndRun.sh```
 
