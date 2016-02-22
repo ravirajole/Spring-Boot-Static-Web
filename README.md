@@ -24,7 +24,7 @@ Yes, you need
 
 ## How can I configure port, logging, etc?
 
-This is called "eternalized configuration" in Spring Boot, basically
+This is called "externalized configuration" in Spring Boot, basically
 add an ```application.properties``` file, set environment variables,
 or use a combination of both.
 
