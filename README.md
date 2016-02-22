@@ -10,6 +10,9 @@ Just drop your site content in the webroot, build the jar and then run it!
 ## How to build and run
 ```$ ./buildAndRun.sh```
 
+The server listens on [localhost:8080](http://localhost:8080).
+
+
 ### It doesn't work, do I need to install something first?
 Yes, you need
 
