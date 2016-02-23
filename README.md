@@ -1,6 +1,6 @@
 # Static Content Webserver with Spring Boot
-This is is a bare-bones scaffold with the single purpose of serving
-static content using a Spring Boot application, running an embedded
+This is a bare-bones scaffold with the single purpose of serving
+static content using a Spring Boot application, using an embedded
 Tomcat.
 
 It produces a single fat executable jar, with all dependencies and the content in it.
